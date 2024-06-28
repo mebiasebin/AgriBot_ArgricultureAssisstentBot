@@ -1,4 +1,5 @@
 # AgriBot_ArgricultureAssisstentBot
+
 GPT - Generative Pre-Trained Transformation
 Prompt -> Trained on large text data -> O/p Text
 6 layer model
@@ -13,10 +14,7 @@ K = Key - feature (South Indian Dish)
 V = Vector - in depth features
 dk - dimensionality constant
 softmax =  [1 2 3 4]^T = 
-[e^1/(e^1 + e^2 + e^3 + e^4)   
-e^2/(e^1 + e^2 + e^3 + e^4)
-e^3/(e^1 + e^2 + e^3 + e^4)
-e^4/(e^1 + e^2 + e^3 + e^4)]
+	e1e1+e2+e3+e4 e2e1+e2+e3+e4 e3e1+e2+e3+e4 e4e1+e2+e3+e4T
 			Probability Distribution
 
 Architecture:
