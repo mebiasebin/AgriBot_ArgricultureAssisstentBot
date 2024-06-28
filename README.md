@@ -1,7 +1,7 @@
 # AgriBot_ArgricultureAssisstentBot
 
-GPT - Generative Pre-Trained Transformation
-Prompt -> Trained on large text data -> O/p Text
+#GPT - Generative Pre-Trained Transformation
+#Prompt -> Trained on large text data -> O/p Text
 6 layer model
 Self attention mechanism - find the imp word
 E.g , I LOVE DHOSA
