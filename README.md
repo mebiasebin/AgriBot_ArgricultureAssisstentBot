@@ -1,13 +1,17 @@
 # AgriBot_ArgricultureAssisstentBot
 
-#GPT - Generative Pre-Trained Transformation
-#Prompt -> Trained on large text data -> O/p Text
+GPT - Generative Pre-Trained Transformation
+
+Prompt -> Trained on large text data -> O/p Text
+
 6 layer model
+
 Self attention mechanism - find the imp word
 E.g , I LOVE DHOSA
         1    5         10
 DHOSA -> imp word
 It generates an o/p -> That’s great to hear! Dosa is a South Indian dish.
+
 Self Attention = softmax((QKTdk)V)
 Q - Query or Question (Dosa)
 K = Key - feature (South Indian Dish)
